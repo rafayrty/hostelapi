@@ -1,3 +1,3 @@
 # HostelApi
 
-This Source Code Is Protected By Copyright This is a rest api for the HOSTEL ENTRY EXIT PROJECT Sindh University FYP Project
+A Rest API That I Built For A Project Of Attendance Used Codeigniter and REST SERVER CI to Build It.
